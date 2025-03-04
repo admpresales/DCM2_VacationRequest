@@ -1,0 +1,5 @@
+#UFT ignore section
+*.lck
+/Res*
+.idea/*
+#end UFT ignore section
